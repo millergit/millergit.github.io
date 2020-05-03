@@ -1,2 +1,0 @@
-# millergit.github.io
-neogl
